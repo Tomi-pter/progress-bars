@@ -22,7 +22,7 @@ This is a solution to the Multi-colored progress bars challenge on coderbyte.
 ### Links
 
 - Solution URL: [Solution github repo](https://github.com/Tomi-pter/progress-bars.git)
-- Live Site URL: [Live site URL here](https://tomi-pricing-toggle.netlify.app/)
+- Live Site URL: [Live site URL here](https://tomi-progress.netlify.app/)
 
 ## My process
 
